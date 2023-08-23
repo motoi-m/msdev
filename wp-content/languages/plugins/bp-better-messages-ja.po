@@ -1,0 +1,94 @@
+# Translation of Plugins - Better Messages – Live Chat for WordPress, BuddyPress, PeepSo, Ultimate Member, BuddyBoss - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Better Messages – Live Chat for WordPress, BuddyPress, PeepSo, Ultimate Member, BuddyBoss - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-22 11:00:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Better Messages – Live Chat for WordPress, BuddyPress, PeepSo, Ultimate Member, BuddyBoss - Stable (latest release)\n"
+
+#: addons/reactions.php:96 inc/rest-api.php:891
+msgid "Message not found"
+msgstr "メッセージが見つかりません"
+
+#: addons/peepso.php:203 addons/ultimate-member.php:356
+msgid "%s not on your friends list"
+msgstr "%s はあなたのフレンドリストにいません"
+
+#: inc/functions.php:1112
+msgid "Profile picture of %s"
+msgstr "%s のプロフィール写真"
+
+#: inc/install.php:26 inc/notifications.php:124
+msgid "A member has unread private messages."
+msgstr "メンバーに未読のプライベートメッセージがあります。"
+
+#. translators: do not remove {} brackets or translate its contents.
+#: inc/install.php:22 inc/notifications.php:120
+msgid ""
+"You have unread messages: \"{{subject}}\"\n"
+"\n"
+"{{messages.raw}}\n"
+"\n"
+"Go to the discussion to reply or catch up on the conversation: {{{thread.url}}}"
+msgstr ""
+"未読のメッセージがあります: \"{{subject}}\"\n"
+"\n"
+"{{messages.raw}}\n"
+"\n"
+"ページに行って確認/返信しましょう: {{{thread.url}}}"
+
+#. translators: do not remove {} brackets or translate its contents.
+#: inc/install.php:20 inc/notifications.php:118
+msgid ""
+"You have unread messages: &quot;{{subject}}&quot;\n"
+"\n"
+"{{{messages.html}}}\n"
+"\n"
+"<a href=\"{{{thread.url}}}\">Go to the discussion</a> to reply or catch up on the conversation."
+msgstr ""
+"未読のメッセージがあります: &quot;{{subject}}&quot;\n"
+"\n"
+"{{{messages.html}}}\n"
+"\n"
+"<a href=\"{{{thread.url}}}\">ページ</a> に行って確認/返信しましょう"
+
+#. translators: do not remove {} brackets or translate its contents.
+#: inc/install.php:18 inc/notifications.php:116
+msgid "[{{{site.name}}}] You have unread messages: {{subject}}"
+msgstr "[{{{site.name}}}] 未読のメッセージがあります: {{subject}}"
+
+#: inc/notifications.php:391
+msgid "%s wrote:"
+msgstr "%s より:"
+
+#: inc/hooks.php:956 inc/hooks.php:1038
+msgctxt "Messages list sub nav"
+msgid "Messages <span class=\"%s bp-better-messages-unread\">%s</span>"
+msgstr "メッセージ <span class=\"%s bp-better-messages-unread\">%s</span>"
+
+#: inc/component.php:133
+msgid "Starred"
+msgstr "スレ主"
+
+#. Author of the plugin
+msgid "WordPlus"
+msgstr "WordPlus"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wordplus.org"
+msgstr "https://www.wordplus.org"
+
+#: inc/functions.php:1738
+msgid "Access restricted"
+msgstr "アクセス制限"
+
+#: addons/ultimate-member.php:400 inc/component-group.php:47
+#: inc/component.php:39 inc/hooks.php:617
+msgid "Messages"
+msgstr "メッセージ"

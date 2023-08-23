@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Menu Editor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-20 07:33+0000\n"
+"PO-Revision-Date: 2023-08-20 07:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: 日本語\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3\n"
+"X-Domain: admin-menu-editor"
+
+#: modules/actor-selector/actor-selector.php:45
+msgid "Access denied. Invalid nonce."
+msgstr ""
+
+#: modules/actor-selector/actor-selector.php:48
+msgid "You don't have permission to use Admin Menu Editor Pro."
+msgstr ""
+
+#. Name of the plugin
+msgid "Admin Menu Editor"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Lets you directly edit the WordPress admin menu. You can re-order, hide or "
+"rename existing menus, add custom menus and more."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://w-shadow.com/blog/2008/12/20/admin-menu-editor-for-wordpress/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Janis Elsts"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://w-shadow.com/blog/"
+msgstr ""
